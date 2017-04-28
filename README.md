@@ -10,8 +10,22 @@
 		<p>Genos.</p>
 		<p>are amazing.</p>
 	<body>
+	
+<!-- Styles -->	
+<style style="text/css">
+body {
+  background-image: url("/pix/samples/bg1.gif");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+}
+</style>
+</head>
+<body>
+
+<!-- HTML -->
+<h3>Whole Page</h3>
+<p>This example has a background image applied to the <code>body</code> element.</p>
+
+</body>
 </html>
 
-<div style="background-image:url('https://images.alphacoders.com/661/661647.png');padding:5px;width:150px;height:200px;border:1px solid black;">
-<p>See the background image?</p>
-</div>
