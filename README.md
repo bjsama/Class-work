@@ -11,3 +11,13 @@
 		<p>are amazing.</p>
 	<body>
 </html>
+<style style="text/css">
+body {
+	background-image:
+url("http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg");
+	background-position: 50% 50%;
+	background-repest: repeat;
+}
+</style>
+</head>
+<body>
