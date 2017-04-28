@@ -11,8 +11,7 @@
 		<p>are amazing.</p>
 		<p>yeahhhhhhh!</p>
 	<body>
-	
-	<div style="background-color:GreenYellow;width:200px;border:1px solid black;padding:15px;">
+	<div style="background-color:lightblue;width:200px;border:0px solid black;padding:15px;">
 	<p>HTML background code is actually CSS!</p>
 	</div>
 </html>
