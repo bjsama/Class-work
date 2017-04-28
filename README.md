@@ -11,6 +11,12 @@
 		<p>are amazing.</p>
 	<body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Example</title>
+
+<!-- Styles -->
 <style style="text/css">
 body {
 	background-image:
