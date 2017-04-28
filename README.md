@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Result</title>
+		they are amazing.
 	<head>
 	<body><h1>ONE PUNCH MAN</h1>
 	<img src="http://www.gambitmag.com/wp-content/uploads/2016/09/HmWDsHkfTFyShq7GqbE1_b01.png" />
@@ -22,5 +22,14 @@
 	height:100px;">
 	<p> prrprpr<code>hahaha</code> </p>
 	</div>
+	<!doctype html>
+	<html>
+	<head>
+	<title>Example</title>
+	</head>
+	<body style="background-color:yellowgreen;color:white;">
+	...hhhhh...
+	</body>
+	</html>
 </html>
 
