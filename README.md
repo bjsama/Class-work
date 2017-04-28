@@ -1,9 +1,13 @@
 # One-punch-man
-git remote add origin https://github.com/bjsama/YEAH-my-class-work.git
-git push -u origin master
-echo "# YEAH-my-class-work" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/bjsama/YEAH-my-class-work.git
-git push -u origin master
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	<head>
+	<body><h1>ONE PUNCH MAN</h1>
+	<img src="http://www.gambitmag.com/wp-content/uploads/2016/09/HmWDsHkfTFyShq7GqbE1_b01.png" />
+		<p>Saitama.</p>
+		<p>Genos.</p>
+		<p>are amazing.</p>
+	<body>
+</html>
