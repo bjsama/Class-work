@@ -12,7 +12,7 @@
 		<p>yeahhhhhhh!</p>
 	<body>
 	<div style="background-color:lightblue;width:200px;border:0px solid black;padding:15px;">
-	<p>HTML background code is actually CSS!</p>
+	<p>I'm DYING.</p>
 	</div>
 </html>
 
