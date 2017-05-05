@@ -10,26 +10,7 @@
 		<p>and Genos.</p>
 		<p>are amazing.</p>
 		<p>yeahhhhhhh!</p>
-	<body>
-	<div style="background-color:lightblue;width:200px;border:0px solid black;padding:15px;">
-	<p>I'm DYING.</p>
-	</div>
-	<div style="background-image:url('/pix/samples/bg1.gif');
-	background-repeat:repeat;
-	background-attachment:fixed;
-	overflow:scroll;
-	width:200px;
-	height:100px;">
-	<p> prrprpr<code>hahaha</code> </p>
-	</div>
-	<!doctype html>
-	<html>
-	<head>
-	<title>Example</title>
-	</head>
-	<body style="background-color:yellowgreen;color:white;">
-	...hhhhh...
 	</body>
-	</html>
+	<a href="/video/pass-countdown.ogg">Watch this video</a>
 </html>
 
