@@ -11,6 +11,6 @@
 		<p>are amazing.</p>
 		<p>yeahhhhhhh!</p>
 	</body>
-	<a href="/video/pass-countdown.ogg">Watch this video</a>
+	<a href="https://www.youtube.com/watch?v=zDxS9lOpgWk">Watch this episode 1</a>
 </html>
 
