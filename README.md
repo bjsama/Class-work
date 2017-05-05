@@ -13,4 +13,13 @@
 	</body>
 	<a href="https://www.youtube.com/watch?v=zDxS9lOpgWk">Watch this episode 1</a>
 </html>
+<!doctype html>
+<html>
+	<head>
+	<title>Example</title>
+	</head>
+	<body style="background-color:yellowgreen;color:white;">
+	...hahaha...
+	</body>
+</html>
 
